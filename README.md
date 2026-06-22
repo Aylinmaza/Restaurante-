@@ -1,14 +1,14 @@
 # Sistema de Restaurante en Python
 **Nombre completo:** Aylin Maribel Maza Guaman 
 
-## 📌 Descripción del sistema
+## Descripción del sistema
 Este proyecto implementa un sistema básico para administrar un restaurante utilizando **Programación Orientada a Objetos (POO)** en Python.  
 El sistema permite:
 - Definir productos con su nombre y precio.
 - Registrar clientes y sus pedidos.
 - Administrar el menú y la lista de clientes desde la clase principal `Restaurante Doña Margarita `.
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 La organización modular del proyecto se realizó de la siguiente manera:
 
 RESTAURANTE-APP/
